@@ -1,6 +1,6 @@
-# Ecommerce-sales-dashboard-project
 Retail Sales Dashboard Analysis Report
-Project Objective: To analyze retail sales transactions and build an interactive Excel
+Project Objective:
+To analyze retail sales transactions and build an interactive Excel
 dashboard that provides insights into revenue performance, product performance, store
 performance, regional contribution, category-wise sales, and sales trends over time.
 
@@ -25,14 +25,14 @@ Product_Name Product description added using XLOOKUP
 Category Product category added using XLOOKUP
 Region Store region added using XLOOKUP
 
-Data Cleaning & Transformation:
+Data Cleaning & Transformation
 • Validated data consistency across Product, Store, and Sales tables.
 • Corrected Product ID mismatches.
 • Used XLOOKUP to enrich Sales_Fact with Product_Name, Category, and Region.
 • Verified lookup results and removed #N/A issues.
 • Structured the dataset into an Excel table for Pivot analysis.
-Visualization and Insights Arrived with Dashboard
 
+Visualization and Insights Arrived with Dashboard
 Descriptive Analysis:
 • Total Revenue: 2,170,907
 • Total Orders: 2,000
